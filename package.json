@@ -23,6 +23,7 @@
     "vue-template-compiler": "^2.6.10"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
     "cliui": "^5.0.0",
     "pify": "^4.0.1",
     "yargs-parser": "^14.0.0"
